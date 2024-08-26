@@ -13,8 +13,7 @@
  
 - 👨🏽‍🎓 Estudante de STEM
 - 🖥️ Apaixonado por tecnologia, programação e robótica
-- 📊 Desenvolvendo em .NET, Angular, SQL
-- 📚 Aprendendo Azure, React...
+- 📊 Desenvolvendo em .NET Core integrações de dados usando Azure
 
 
 ---
